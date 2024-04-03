@@ -7,8 +7,9 @@ For predicting a number:
 ✅ Linear regression  
 ✅ Nonlinear regression  
 ✅ Multivariable regression  
+✅ Multilayer Perceptron Neural Network
   
 For classification:  
   
 ✅ Logistic regression  
-... loading
+✅ Multilayer Perceptron Neural Network
