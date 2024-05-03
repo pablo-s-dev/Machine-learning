@@ -6,6 +6,6 @@ This repo contains exercises and pure math implementations of machine learning a
 ✅ Linear regression  
 ✅ Nonlinear regression  
 ✅ Multivariable regression  
-✅ Logistic regression
-✅ Multilayer Perceptron Neural Network 
-✅ K-Nearest Neighbor
+✅ Logistic regression  
+✅ Multilayer Perceptron Neural Network  
+✅ K-Nearest Neighbor  
